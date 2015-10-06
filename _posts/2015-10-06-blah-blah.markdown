@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: "Blah blah!"
+date: {}
+categories: test
+published: true
 ---
 
 ## A New Post
