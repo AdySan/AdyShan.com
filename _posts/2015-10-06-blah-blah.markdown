@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Blah blah!"
+title: "blah blah"
 date: {}
-categories: test
+categories: jekyll update
 published: true
 ---
 
