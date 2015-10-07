@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title:  "Test post"
+date:   2015-10-06 18:48:42
+categories: test
 ---
 
 ## A New Post
