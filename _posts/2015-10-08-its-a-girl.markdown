@@ -5,7 +5,7 @@ date:   2015-10-08 23:00:00
 categories: baby
 ---
 
-![Bump!]({{ site.url }}/images/shan-harbor-cove1.JPG)
+![Bump!]({{ site.url }}/images/shan-harbor-cove1.jpg)
 
 Hello everyone. It's been a while since I've given any updates here. We're super excited to announce that me and my loving wife Shanshan are expecting a little baby girl in spring next year! 
 
