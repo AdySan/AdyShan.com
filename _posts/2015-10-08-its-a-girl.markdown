@@ -2,24 +2,17 @@
 layout: post
 title:  "It's a girl!"
 date:   2015-10-08 23:00:00
-categories: jekyll update
+categories: baby
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![_config.yml]({{ site.baseurl }}/images/shan-harbor-cove1.JPG)
 
-Jekyll also offers powerful support for code snippets:
+Hello everyone. It's been a while since I've given any updates here. We're super excited to announce that me and my loving wife Shanshan are expecting a little baby girl in spring next year! 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+是一个女宝宝󾆩！
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+大家好！今天我和我的老婆有一个最重要的事情。明年春天迎来我们的最漂亮的女宝宝󾆩。
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+女の子です！
+
+どうも。ここに何か載せるのは結構久しぶりです。凄くいい報告があります。来年春頃に小さな赤ちゃんの女の子を期待してますよ〜！
